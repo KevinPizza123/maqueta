@@ -1,0 +1,83 @@
+body{
+    background:linear-gradient(top, rgb(210, 153, 221), rgb(172, 90, 197));
+    background:-webkit-linear-gradient(top, rgb(155, 93, 190), rgb(147, 61, 173));
+    background:-moz-linear-gradient(top, rgb(169, 130, 201), rgb(179, 98, 211));
+    background:-o-linear-gradient(top, rgb(163, 111, 187), rgb(142, 77, 172));
+    background:-ms-linear-gradient(top, rgb(181, 106, 204), rgb(143, 74, 175));
+}
+.cuerpo {
+margin: 50px;
+border: 1px solid #5c6552;
+background: rgb(95,0,133);
+padding: 350px;
+border-radius: 20px;
+}
+
+.tabla {
+    width: 100%;
+    margin: 10px;
+    text-align: center;
+    padding-top: 50px;
+    right: -150px;
+    position: absolute;
+    top: 140px;
+
+}
+
+.tablax3 {
+    float: left;
+    width: 25%;
+    margin-top: 20px;
+}
+.tarjeta{
+    border: 1px solid #5c6552;
+    background: #fff;
+    padding: 20px;
+    border-radius: 20px;
+}
+.tablamitad {
+    float: left;
+    width: 25%;
+    margin-top: 10px;
+    
+}
+.imagenredonda {
+    width: 60px;
+    height: 60px;
+    border-radius: 150px;
+}
+.listaprecio {
+    list-style: none;
+    padding: 20px 0;
+    color: blue;
+    padding-bottom: 50px;
+}
+.listaespacios{
+padding: 0.35em;
+font-size: 15px;
+}
+
+.boton-precio{
+    margin-bottom: 25px;
+}
+.precio-1{
+    background: blue;
+    text-decoration: none;
+    color: cornsilk;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 10px 70px;
+    letter-spacing: 1px;
+    width: 90%;
+}
+.precio-1:hover{
+    background-color: darkgray;
+}
+
+.tarjetamedio{
+    background-color: #fff;
+    box-shadow: 0 0 8px rgba(0,0,0,0.9);
+    z-index: 500;
+    padding: 40px;
+    border-radius: 20px;
+}
