@@ -1,9 +1,7 @@
 body{
-    background:linear-gradient(top, rgb(210, 153, 221), rgb(172, 90, 197));
-    background:-webkit-linear-gradient(top, rgb(155, 93, 190), rgb(147, 61, 173));
-    background:-moz-linear-gradient(top, rgb(169, 130, 201), rgb(179, 98, 211));
-    background:-o-linear-gradient(top, rgb(163, 111, 187), rgb(142, 77, 172));
-    background:-ms-linear-gradient(top, rgb(181, 106, 204), rgb(143, 74, 175));
+    background: linear-gradient(#9000FF,#7800B0 );
+    
+  
 }
 .cuerpo {
 margin: 50px;
