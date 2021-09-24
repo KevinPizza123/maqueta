@@ -21,6 +21,10 @@ border-radius: 20px;
     top: 140px;
 
 }
+.tablax3:hover{
+    transform: scale(1.25);
+    opacity: 1;
+}
 .estiloh4 {
     font-size: 20px;
     color: green;
@@ -42,6 +46,10 @@ border-radius: 20px;
     width: 25%;
     margin-top: 10px;
     
+}
+.tarjetamedio:hover{
+    transform: scale(1.25);
+    opacity: 1;
 }
 .imagenredonda {
     width: 60px;
